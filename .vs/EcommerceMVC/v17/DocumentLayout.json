@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\WED\\ASP.NET\\EcommerceMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72627C8B-9E7B-441B-B5B9-1BFCFB748AC3}|EcommerceMVC\\EcommerceMVC.fsproj|d:\\workspace\\wed\\asp.net\\ecommercemvc\\ecommercemvc\\ecommercemvc.fsproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{72627C8B-9E7B-441B-B5B9-1BFCFB748AC3}|EcommerceMVC\\EcommerceMVC.fsproj|solutionrelative:ecommercemvc\\ecommercemvc.fsproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EcommerceMVC",
+              "DocumentMoniker": "D:\\Workspace\\WED\\ASP.NET\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC.fsproj",
+              "RelativeDocumentMoniker": "EcommerceMVC\\EcommerceMVC.fsproj",
+              "ToolTip": "D:\\Workspace\\WED\\ASP.NET\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC.fsproj",
+              "RelativeToolTip": "EcommerceMVC\\EcommerceMVC.fsproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
+              "WhenOpened": "2024-04-06T06:40:53.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
